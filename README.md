@@ -32,7 +32,7 @@
     ```
 3. **Run the Application**:
     ```bash
-    python imago.py
+    python imago.java
     ```
 
 ### 🎨 Screenshots
