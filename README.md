@@ -36,8 +36,8 @@
     ```
     
 ### 🎨 Screenshots
+![Photo](https://github.com/Nishant00019/Imago/assets/90994579/2c43848d-eed0-41e9-986c-0d754bb3f7d4)
 
-![Original Picture](Imago/Picture.png)
 *Encrypting and decrypting made simple and secure!*
 
 
