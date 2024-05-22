@@ -37,7 +37,7 @@
     
 ### 🎨 Screenshots
 
-![Imago Screenshot](Original Picture.png)
+![Original Picture](Imago/Picture.png)
 *Encrypting and decrypting made simple and secure!*
 
 
