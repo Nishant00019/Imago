@@ -35,6 +35,11 @@
     python imago.java
     ```
     
+### 🎨 Screenshots
+
+![Imago Screenshot](Original Picture.png)
+*Encrypting and decrypting made simple and secure!*
+
 
 ### 📚 Technologies Used
 
