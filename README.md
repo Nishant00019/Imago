@@ -36,9 +36,25 @@
     ```
     
 ### 🎨 Screenshots
+*Encrypting and decrypting made simple and secure!*
 ![Photo](https://github.com/Nishant00019/Imago/assets/90994579/2c43848d-eed0-41e9-986c-0d754bb3f7d4)
 
-*Encrypting and decrypting made simple and secure!*
+Apllication UI
+<img width="296" alt="App" src="https://github.com/Nishant00019/Imago/assets/90994579/9667b64a-302b-483b-8a99-538f6f53d3d9">
+
+Ecrypting the image using Imago
+<img width="419" alt="Ecncypting" src="https://github.com/Nishant00019/Imago/assets/90994579/838e4a18-13ce-4c31-8d19-9235bbfbc9f8">
+<img width="302" alt="Done" src="https://github.com/Nishant00019/Imago/assets/90994579/d58b0b83-f640-41ed-bf39-cded0bc32c7e">
+
+Image after encryption
+<img width="325" alt="PNG" src="https://github.com/Nishant00019/Imago/assets/90994579/6fbb7f11-d821-4016-9eeb-c6696f5283b3">
+
+Decrypting the image using Imago
+<img width="386" alt="Select" src="https://github.com/Nishant00019/Imago/assets/90994579/2943a0ae-5c2f-4a11-9c35-6e382bf1fb8c">
+<img width="291" alt="Comp" src="https://github.com/Nishant00019/Imago/assets/90994579/8b18891c-3c0f-41c6-bd22-b23d2d8dff8c">
+
+Image after decryption
+![Photo](https://github.com/Nishant00019/Imago/assets/90994579/b0bf693a-9851-4d4e-a965-b64bc329d758)
 
 
 ### 📚 Technologies Used
