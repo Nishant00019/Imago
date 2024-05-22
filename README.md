@@ -34,11 +34,7 @@
     ```bash
     python imago.java
     ```
-
-### 🎨 Screenshots
-
-![Imago Screenshot](path_to_screenshot.png)
-*Encrypting and decrypting made simple and secure!*
+    
 
 ### 📚 Technologies Used
 
